@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding:0;
+    outline: 0;
+}
+
+ol, ul{
+    list-style: none;
+}
+a, a:hover{
+    text-decoration: none;
+}
+img{
+    border:0;
+    vertical-align: middle;
+}
+h1,h2,h3,h4,h5,h6,ol,ul,li,a,p,img{
+    margin:0;
+    padding:0;
+}
+.container{
+    margin-bottom: 100px;
+}
+.banner{
+    background: #feeae9;
+    padding:10px 20px;
+    border-radius: 15px;
+}
+.price{
+    color:#FF136F;
+}
+.purchase-now-button{
+    background-image: linear-gradient(to bottom, #FF136F 0%, #FF136F 100%);
+    color:#ffffff;
+    border:none;
+    padding:9px 25px;
+    border-radius: 8px;
+}
+
+.Categories h2{
+    margin-bottom:15px;
+}
+
+.Categories img{
+    
+    height: 100px;
+}
+.cat1, .cat2, .cat3{
+    padding:10px 30px;
+    border-radius: 20px;
+}
+.cat1, .cat2, .cat3 h1{
+    color: #ffffff;
+}
+
+.cat1{
+    background-color: #FF9C35;
+}
+.cat2{
+    background-color: #FF5898;
+}
+.cat3{
+    background-image: linear-gradient(to right, #4279FF 100%, #07F8C3 0%);
+}
+
+
+.cat-Shoes h2{
+    margin-bottom: 15px;
+}
+
+.cat-Shoes .card{
+    border: none;
+}
+
+.cat-Backpack #Backpack h2{
+    margin-bottom: 15px;
+}
+.cat-Backpack .card{
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    border: none;
+    background-color: #fff;
+}
+
+
+.ContactUs{
+    background-color: #feeae9;
+    height: 200px;
+    border-radius: 15px;
+}
